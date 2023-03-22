@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Match3Test_BackUpThisFolder_ButDontShipItWithYourGame/
+
+Match3Test_BurstDebugInformation_DoNotShip/
